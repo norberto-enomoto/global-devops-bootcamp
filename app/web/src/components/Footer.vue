@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Azure Global Blackbelt Team - Norberto Enomoto - Back Prince
+        Azure Global Blackbelt Team - Norberto Enomoto - Felipe Almeida
       </div>
       <div class="col-lg-6">
       </div>
